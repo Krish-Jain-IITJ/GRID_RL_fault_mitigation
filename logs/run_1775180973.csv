@@ -1,0 +1,2 @@
+episode,total_reward,steps,overloads_total,max_severity,avg_util_mean,total_shed,acts_0,acts_1,acts_2,acts_3,eps,loss_mean
+1,-222105.61,8760,381161,8.8841,0.8092,630154.8,1914,3321,1777,1748,0.5839,9.159829
